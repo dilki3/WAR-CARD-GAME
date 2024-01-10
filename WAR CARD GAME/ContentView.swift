@@ -64,7 +64,7 @@ struct ContentView: View {
                     }
                     Spacer()
                 }
-                .foregroundColor(.white)
+                .foregroundColor(.black)
                 Spacer()
     
             }
